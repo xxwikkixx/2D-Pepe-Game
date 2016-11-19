@@ -1,0 +1,1347 @@
+fileFormatVersion: 2
+guid: ec98caccc3ce4ee428f181ef03322d42
+timeCreated: 1479549911
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Demon_lawd_Sprites_1
+    21300002: Demon_lawd_Sprites_2
+    21300004: Demon_lawd_Sprites_3
+    21300006: Demon_lawd_Sprites_10
+    21300008: Demon_lawd_Sprites_11
+    21300010: Demon_lawd_Sprites_12
+    21300012: Demon_lawd_Sprites_13
+    21300014: Demon_lawd_Sprites_14
+    21300016: Demon_lawd_Sprites_15
+    21300018: Demon_lawd_Sprites_16
+    21300020: Demon_lawd_Sprites_17
+    21300022: Demon_lawd_Sprites_18
+    21300024: Demon_lawd_Sprites_19
+    21300026: Demon_lawd_Sprites_20
+    21300028: Demon_lawd_Sprites_21
+    21300030: Demon_lawd_Sprites_22
+    21300032: Demon_lawd_Sprites_23
+    21300034: Demon_lawd_Sprites_24
+    21300036: Demon_lawd_Sprites_25
+    21300038: Demon_lawd_Sprites_26
+    21300040: Demon_lawd_Sprites_27
+    21300042: Demon_lawd_Sprites_28
+    21300044: Demon_lawd_Sprites_29
+    21300046: Demon_lawd_Sprites_30
+    21300048: Demon_lawd_Sprites_31
+    21300050: Demon_lawd_Sprites_32
+    21300052: Demon_lawd_Sprites_33
+    21300054: Demon_lawd_Sprites_34
+    21300056: Demon_lawd_Sprites_39
+    21300058: Demon_lawd_Sprites_40
+    21300060: Demon_lawd_Sprites_41
+    21300062: Demon_lawd_Sprites_56
+    21300064: Demon_lawd_Sprites_57
+    21300066: Demon_lawd_Sprites_58
+    21300068: Demon_lawd_Sprites_59
+    21300070: Demon_lawd_Sprites_60
+    21300072: Demon_lawd_Sprites_61
+    21300074: Demon_lawd_Sprites_62
+    21300076: Demon_lawd_Sprites_63
+    21300078: Demon_lawd_Sprites_64
+    21300080: Demon_lawd_Sprites_65
+    21300082: Demon_lawd_Sprites_66
+    21300084: Demon_lawd_Sprites_67
+    21300086: Demon_lawd_Sprites_68
+    21300088: Demon_lawd_Sprites_69
+    21300090: Demon_lawd_Sprites_70
+    21300092: Demon_lawd_Sprites_71
+    21300094: Demon_lawd_Sprites_72
+    21300096: Demon_lawd_Sprites_73
+    21300098: Demon_lawd_Sprites_74
+    21300100: Demon_lawd_Sprites_75
+    21300102: Demon_lawd_Sprites_76
+    21300104: Demon_lawd_Sprites_77
+    21300106: Demon_lawd_Sprites_78
+    21300108: Demon_lawd_Sprites_87
+    21300110: Demon_lawd_Sprites_88
+    21300112: Demon_lawd_Sprites_89
+    21300114: Demon_lawd_Sprites_90
+    21300116: Demon_lawd_Sprites_91
+    21300118: Demon_lawd_Sprites_92
+    21300120: Demon_lawd_Sprites_93
+    21300122: Demon_lawd_Sprites_94
+    21300124: Demon_lawd_Sprites_95
+    21300126: Demon_lawd_Sprites_96
+    21300128: Demon_lawd_Sprites_97
+    21300130: Demon_lawd_Sprites_98
+    21300132: Demon_lawd_Sprites_99
+    21300134: Demon_lawd_Sprites_100
+    21300136: Demon_lawd_Sprites_101
+    21300138: Demon_lawd_Sprites_102
+    21300140: Demon_lawd_Sprites_103
+    21300142: Demon_lawd_Sprites_104
+    21300144: Demon_lawd_Sprites_105
+    21300146: Demon_lawd_Sprites_106
+    21300148: Demon_lawd_Sprites_107
+    21300150: Demon_lawd_Sprites_108
+    21300152: Demon_lawd_Sprites_109
+    21300154: Demon_lawd_Sprites_110
+    21300156: Demon_lawd_Sprites_111
+    21300158: Demon_lawd_Sprites_112
+    21300160: Demon_lawd_Sprites_113
+    21300162: Demon_lawd_Sprites_114
+    21300164: Demon_lawd_Sprites_115
+    21300166: Demon_lawd_Sprites_116
+    21300168: Demon_lawd_Sprites_117
+    21300170: Demon_lawd_Sprites_118
+    21300172: Demon_lawd_Sprites_119
+    21300174: Demon_lawd_Sprites_120
+    21300176: Demon_lawd_Sprites_121
+    21300178: Demon_lawd_Sprites_122
+    21300180: Demon_lawd_Sprites_123
+    21300182: Demon_lawd_Sprites_124
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1043
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1039
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 894
+        width: 84
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 889
+        width: 83
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 897
+        width: 93
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 813
+        width: 180
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 858
+        width: 89
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 858
+        width: 94
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 858
+        width: 96
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 858
+        width: 99
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 857
+        width: 93
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 857
+        width: 93
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 860
+        width: 92
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 870
+        width: 91
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 879
+        width: 88
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 733
+        width: 85
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 732
+        width: 86
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 731
+        width: 87
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 727
+        width: 95
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 841
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 729
+        width: 88
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 728
+        width: 89
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 726
+        width: 95
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 808
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 829
+        width: 30
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 706
+        width: 101
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_33
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 692
+        width: 97
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_34
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 790
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_39
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 689
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_40
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 686
+        width: 99
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_41
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 687
+        width: 99
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_56
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 581
+        width: 115
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_57
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 574
+        width: 118
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_58
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 569
+        width: 116
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_59
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 565
+        width: 112
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_60
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 563
+        width: 101
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_61
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 562
+        width: 94
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_62
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 433
+        width: 97
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_63
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 562
+        width: 87
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_64
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 563
+        width: 90
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_65
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 565
+        width: 91
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_66
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 566
+        width: 91
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_67
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 568
+        width: 90
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_68
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 448
+        width: 93
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_69
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 446
+        width: 88
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_70
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 443
+        width: 91
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_71
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 441
+        width: 91
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_72
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 437
+        width: 90
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_73
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 435
+        width: 87
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_74
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 434
+        width: 101
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_75
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 436
+        width: 99
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_76
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 440
+        width: 107
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_77
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 413
+        width: 111
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_78
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 451
+        width: 111
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_87
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 274
+        width: 94
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_88
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 273
+        width: 93
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_89
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 274
+        width: 97
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_90
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 274
+        width: 95
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_91
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 273
+        width: 97
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_92
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 273
+        width: 99
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_93
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 274
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_94
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 274
+        width: 92
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_95
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 273
+        width: 138
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_96
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 372
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_97
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 372
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_98
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 273
+        width: 109
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_99
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 274
+        width: 92
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_100
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 273
+        width: 90
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_101
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 272
+        width: 92
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_102
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 272
+        width: 92
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_103
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 272
+        width: 91
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_104
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 271
+        width: 92
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_105
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 141
+        width: 92
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_106
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 141
+        width: 92
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_107
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 140
+        width: 93
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_108
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 140
+        width: 93
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_109
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 140
+        width: 92
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_110
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 140
+        width: 92
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_111
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 135
+        width: 91
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_112
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 141
+        width: 90
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_113
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 141
+        width: 86
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_114
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 141
+        width: 90
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_115
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 143
+        width: 92
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_116
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 144
+        width: 92
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_117
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 143
+        width: 92
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_118
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 142
+        width: 89
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_119
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 142
+        width: 91
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_120
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 141
+        width: 92
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_121
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 9
+        width: 93
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_122
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 10
+        width: 94
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_123
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 10
+        width: 95
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demon_lawd_Sprites_124
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 11
+        width: 95
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
