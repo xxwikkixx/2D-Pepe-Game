@@ -19,3 +19,34 @@ A:\git\UNITY 2D\2D-Pepe-Game\Temp\bin\Debug\UnityEngine.Networking.xml
 A:\git\UNITY 2D\2D-Pepe-Game\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
 A:\git\UNITY 2D\2D-Pepe-Game\obj\Debug\Assembly-CSharp.dll
 A:\git\UNITY 2D\2D-Pepe-Game\obj\Debug\Assembly-CSharp.pdb
+C:\Users\wikki\git\UNITY 2D\2D Pepe Game\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\wikki\git\UNITY 2D\2D Pepe Game\obj\Debug\Assembly-CSharp.dll
+C:\Users\wikki\git\UNITY 2D\2D Pepe Game\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\wikki\git\UNITY 2D\2D Pepe Game\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\wikki\git\UNITY 2D\2D Pepe Game\Temp\bin\Debug\UnityEditor.dll
+C:\Users\wikki\git\UNITY 2D\2D Pepe Game\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+C:\Users\wikki\git\UNITY 2D\2D Pepe Game\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\wikki\git\UNITY 2D\2D Pepe Game\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\wikki\git\UNITY 2D\2D Pepe Game\Temp\bin\Debug\UnityEngine.dll
+C:\Users\wikki\git\UNITY 2D\2D Pepe Game\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\wikki\git\UNITY 2D\2D Pepe Game\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\wikki\git\UNITY 2D\2D Pepe Game\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\wikki\git\UNITY 2D\2D Pepe Game\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\wikki\git\UNITY 2D\2D Pepe Game\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\wikki\git\UNITY 2D\2D Pepe Game\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\wikki\git\UNITY 2D\2D Pepe Game\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\wikki\git\UNITY 2D\2D Pepe Game\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\wikki\git\UNITY 2D\2D Pepe Game\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\wikki\git\UNITY 2D\2D Pepe Game\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\wikki\git\UNITY 2D\2D Pepe Game\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\wikki\git\UNITY 2D\2D Pepe Game\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\wikki\git\UNITY 2D\2D Pepe Game\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\wikki\git\UNITY 2D\2D Pepe Game\Temp\bin\Debug\UnityEngine.xml
+C:\Users\wikki\git\UNITY 2D\2D Pepe Game\Temp\bin\Debug\UnityEditor.xml
+C:\Users\wikki\git\UNITY 2D\2D Pepe Game\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\wikki\git\UNITY 2D\2D Pepe Game\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\wikki\git\UNITY 2D\2D Pepe Game\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\wikki\git\UNITY 2D\2D Pepe Game\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\wikki\git\UNITY 2D\2D Pepe Game\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\wikki\git\UNITY 2D\2D Pepe Game\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\wikki\git\UNITY 2D\2D Pepe Game\obj\Debug\Assembly-CSharp.pdb
